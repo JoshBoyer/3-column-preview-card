@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/JoshBoyer/Stats-preview-card.git
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/JoshBoyer/3-column-preview-card.git
+- Live Site URL: https://joshboyer.github.io/3-column-preview-card/
 
 ## My process
 
