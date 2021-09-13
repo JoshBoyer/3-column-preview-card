@@ -81,7 +81,7 @@ main {
 }
 
 .card:first-child::before {
-  content: url("/images/icon-sedans.svg");
+  content: url("./images/icon-sedans.svg");
 }
 
 /* Second card - SUVs */
@@ -96,7 +96,7 @@ main {
   background-color: var(--colorSecondary);
 }
 .card:nth-child(2)::before {
-  content: url("/images/icon-suvs.svg");
+  content: url("./images/icon-suvs.svg");
 }
 
 /* Third card - Luxury */
@@ -112,7 +112,7 @@ main {
   background-color: var(--colorAccent);
 }
 .card:last-child::before {
-  content: url("/images/icon-luxury.svg");
+  content: url("./images/icon-luxury.svg");
 }
 
 .card--heading {
